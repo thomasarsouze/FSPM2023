@@ -1,0 +1,19 @@
+name: fspm_training
+channels:
+  - openalea3
+  - conda-forge
+  - fredboudon
+dependencies:
+  - python=3.9
+  - openalea.plantgl
+  - openalea.lpy
+  - oawidgets
+  - pyqglviewer
+  - openalea.plantscan3d
+  - ca-certificates
+  - openssl
+  - openalea.hydroroot
+  - openalea.hydroshoot
+  - openalea.strawberry
+  - openalea.weberpenn
+  - certifi
