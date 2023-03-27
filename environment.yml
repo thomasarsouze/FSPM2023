@@ -17,3 +17,7 @@ dependencies:
   - openalea.strawberry
   - openalea.weberpenn
   - certifi
+  - ipywidgets
+  - pip
+  - pip:
+      - pgljupyter
