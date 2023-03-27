@@ -7,6 +7,7 @@ dependencies:
   - python=3.9
   - openalea.plantgl
   - openalea.lpy
+  - jupyterlab_widgets
   - oawidgets
   - pyqglviewer
   - openalea.plantscan3d
